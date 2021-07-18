@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1604975885 source:/home/martin/Documents/Codeblocks/C/EdA2-2C/EdA2-2C-ProyEntregable/EdA2-2C_64bit/funciones.c
+	"funciones.h"
+
+1604911806 /home/martin/Documents/Codeblocks/C/EdA2-2C/EdA2-2C-ProyEntregable/EdA2-2C_64bit/funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"pila/pila.h"
+
+1604911806 /home/martin/Documents/Codeblocks/C/EdA2-2C/EdA2-2C-ProyEntregable/EdA2-2C_64bit/que_hice.h
+
+1604911806 /home/martin/Documents/Codeblocks/C/EdA2-2C/EdA2-2C-ProyEntregable/EdA2-2C_64bit/pila/pila.h
+	<stdlib.h>
+	<string.h>
+
+1604911806 source:/home/martin/Documents/Codeblocks/C/EdA2-2C/EdA2-2C-ProyEntregable/EdA2-2C_64bit/main.c
+	"main.h"
+
+1604911806 /home/martin/Documents/Codeblocks/C/EdA2-2C/EdA2-2C-ProyEntregable/EdA2-2C_64bit/main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+

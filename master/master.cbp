@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="master" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/master" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/master" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="EJERCICIOS.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TDA/DINAMICO/arbolbinario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TDA/DINAMICO/arbolbinario.h" />
+		<Unit filename="TDA/DINAMICO/listasimple.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TDA/DINAMICO/listasimple.h" />
+		<Unit filename="funciones/archivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/archivos.h" />
+		<Unit filename="funciones/cadenas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/cadenas.h" />
+		<Unit filename="funciones/ejercicios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/ejercicios.h" />
+		<Unit filename="funciones/fecha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/fecha.h" />
+		<Unit filename="funciones/matrices.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/matrices.h" />
+		<Unit filename="funciones/memoria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/memoria.h" />
+		<Unit filename="funciones/menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/menu.h" />
+		<Unit filename="funciones/recursividad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/recursividad.h" />
+		<Unit filename="funciones/utiles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/utiles.h" />
+		<Unit filename="funciones/vectores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones/vectores.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Extensions>
+			<DoxyBlocks>
+				<comment_style block="4" line="2" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

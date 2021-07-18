@@ -1,0 +1,1085 @@
+# depslib dependency file v1.0
+1587325074 source:c:\users\testing\desktop\martin\codeblocks\necesarryfiles\funcionfactorial.c
+	"funcionfactorial.h"
+	"funcionfactorial.h"
+
+1587325074 ctorial.h"
+
+1587325074 c:\users\testing\desktop\martin\codeblocks\necesarryfiles\funcionfactorial.h
+
+1597595902 source:c:\users\testing\desktop\martin\programacion\codeblocks\neededfiles\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1600481004 .h"
+
+1597596087 c:\users\testing\desktop\martin\programacion\codeblocks\neededfiles\funciones.h
+
+1598985438 source:c:\users\testing\desktop\martin\programacion\codeblocks\neededfiles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1603746028 
+
+1600481715 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\main.c
+	"funciones/funciones.h"
+	"funciones/vectores.h"
+	"funciones/matrices.h"
+	"funciones/cadenas.h"
+	"funciones/funciones.h"
+	"funciones/vectores.h"
+	"funciones/matrices.h"
+	"funciones/cadenas.h"
+
+1600481715 /cadenas.h"
+
+1600374599 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones.h
+
+1600362712 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1600450984 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones_array.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones_array.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones_array.h"
+
+1600450984 _array.h"
+
+1599793530 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones_array.h
+
+1600206969 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones_matrices.c
+	"funciones_matrices.h"
+	"funciones_matrices.h"
+
+1600206969 _matrices.h"
+
+1600206169 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones_matrices.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1600461031 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones_cadenas.c
+	"funciones_cadenas.h"
+	"funciones_cadenas.h"
+
+1600461031 _cadenas.h"
+
+1600464820 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones_cadenas.h
+	<stddef.h>
+	<stddef.h>
+
+1599864803 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\ejercicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"ejercicios.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"ejercicios.h"
+
+1601584580 s.h"
+
+1599864831 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\ejercicios.h
+
+1600481004 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1600481004 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\funciones.h
+
+1600481836 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\cadenas.c
+	"cadenas.h"
+	"cadenas.h"
+
+1602901787 "
+
+1600480862 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\cadenas.h
+	<stddef.h>
+	<stddef.h>
+
+1600476471 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\matrices.c
+	"matrices.h"
+	"matrices.h"
+
+1603682737 h"
+
+1600206169 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\matrices.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1600476478 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1597175876 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\fecha.h
+
+1599793530 c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\vectores.h
+
+1600476486 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\neededfiles\funciones\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+
+1602539783 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\cadenas.c
+	"cadenas.h"
+	"cadenas.h"
+
+1601864766 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\cadenas.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+
+1601584580 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\ejercicios.c
+	"ejercicios.h"
+	"ejercicios.h"
+
+1601584580 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\ejercicios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1601584580 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\fecha.c
+	"fecha.h"
+	"fecha.h"
+
+1601584580 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\fecha.h
+
+1600481004 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1600481004 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\funciones.h
+
+1603326102 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\matrices.c
+	"matrices.h"
+	"matrices.h"
+
+1603324372 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\matrices.h
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1602902274 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+
+1602902235 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\vectores.h
+
+1604189116 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\main.c
+	"main.h"
+	"main.h"
+
+1604183729 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	"funciones/cadenas.h"
+	"funciones/ejercicios.h"
+	"funciones/fecha.h"
+	"funciones/matrices.h"
+	"funciones/memoria.h"
+	"funciones/utiles.h"
+	"funciones/vectores.h"
+	"TDA/ESTATICA/cola.h"
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	"funciones/cadenas.h"
+	"funciones/ejercicios.h"
+	"funciones/fecha.h"
+	"funciones/matrices.h"
+	"funciones/memoria.h"
+	"funciones/utiles.h"
+	"funciones/vectores.h"
+	"TDA/ESTATICA/cola.h"
+
+1604183729 ICA/cola.h"
+
+1603832981 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1603644720 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\utiles.c
+	"utiles.h"
+	"cadenas.h"
+	"utiles.h"
+	"cadenas.h"
+
+1603659363 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\archivos.h
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1603682737 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\archivos.c
+	"archivos.h"
+	"archivos.h"
+
+1601747588 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\telemetria.c
+	"telemetria.h"
+	"telemetria.h"
+
+1601747588 a.h"
+
+1601692019 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\telemetria.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+
+1601692019 /archivos.h"
+
+1603471964 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\pila\pilaestatica.c
+	"pilaEstatica.h"
+	"pilaEstatica.h"
+
+1603336427 ica.h"
+
+1603227803 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\pila\pilaestatica.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1603474769 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\pila\piladinamica.c
+	"pilaDinamica.h"
+	"pilaDinamica.h"
+
+1603474504 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\pila\piladinamica.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1602901787 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\memoria.c
+	"memoria.h"
+	"memoria.h"
+
+1602868468 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\funciones\memoria.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1603423448 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\cola\coladinamica.c
+	"colaDinamica.h"
+	"colaDinamica.h"
+
+1603422923 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\cola\coladinamica.h
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1603825885 ciones/utiles.h"
+
+1603336427 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\cola\colaestatica.c
+	"colaEstatica.h"
+	"colaEstatica.h"
+
+1603336416 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\cola\colaestatica.h
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+
+1603478409 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\dinamica\pila.c
+	"pila.h"
+	"pila.h"
+
+1603684256 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\dinamica\pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1603477911 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\dinamica\cola.c
+	"cola.h"
+	"cola.h"
+
+1603477955 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\dinamica\cola.h
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1603834706 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\estatica\cola.c
+	"cola.h"
+	"cola.h"
+
+1603825885 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\estatica\cola.h
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+
+1603745599 source:c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\estatica\pila.c
+	"pila.h"
+	"pila.h"
+
+1603746028 c:\users\testing\desktop\martin\programacion\codeblocks\c\master\tda\estatica\pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1603682737 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/archivos.c
+	"archivos.h"
+	"archivos.h"
+
+1603659363 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/archivos.h
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1602539783 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/cadenas.c
+	"cadenas.h"
+	"cadenas.h"
+
+1601864766 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/cadenas.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+
+1601584580 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/ejercicios.c
+	"ejercicios.h"
+	"ejercicios.h"
+
+1601584580 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/ejercicios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1601584580 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/fecha.c
+	"fecha.h"
+	"fecha.h"
+
+1601584580 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/fecha.h
+
+1603326102 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/matrices.c
+	"matrices.h"
+	"matrices.h"
+
+1603324372 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/matrices.h
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1602902235 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/vectores.h
+
+1602901787 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/memoria.c
+	"memoria.h"
+	"memoria.h"
+
+1602868468 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/memoria.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1603644720 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/utiles.c
+	"utiles.h"
+	"cadenas.h"
+	"utiles.h"
+	"cadenas.h"
+
+1603832981 /home/martin/OneDrive/PROGRAMACION/C/master/funciones/utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1602902274 source:/home/martin/OneDrive/PROGRAMACION/C/master/funciones/vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+
+1603834706 source:/home/martin/OneDrive/PROGRAMACION/C/master/TDA/ESTATICA/cola.c
+	"cola.h"
+	"cola.h"
+
+1603825885 /home/martin/OneDrive/PROGRAMACION/C/master/TDA/ESTATICA/cola.h
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+
+1603745599 source:/home/martin/OneDrive/PROGRAMACION/C/master/TDA/ESTATICA/pila.c
+	"pila.h"
+	"pila.h"
+
+1603746028 /home/martin/OneDrive/PROGRAMACION/C/master/TDA/ESTATICA/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1605654427 source:/home/martin/Documents/Codeblocks/C/master/funciones/archivos.c
+	"archivos.h"
+	"archivos.h"
+
+1605654421 /home/martin/Documents/Codeblocks/C/master/funciones/archivos.h
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1606607962 source:/home/martin/Documents/Codeblocks/C/master/funciones/cadenas.c
+	"cadenas.h"
+
+1606605637 /home/martin/Documents/Codeblocks/C/master/funciones/cadenas.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+
+1605652903 source:/home/martin/Documents/Codeblocks/C/master/funciones/ejercicios.c
+	"ejercicios.h"
+	<math.h>
+	"ejercicios.h"
+	<math.h>
+
+1605654494 /home/martin/Documents/Codeblocks/C/master/funciones/ejercicios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1605643817 source:/home/martin/Documents/Codeblocks/C/master/funciones/fecha.c
+	"fecha.h"
+	"fecha.h"
+
+1605643813 /home/martin/Documents/Codeblocks/C/master/funciones/fecha.h
+
+1605656080 source:/home/martin/Documents/Codeblocks/C/master/funciones/matrices.c
+	"matrices.h"
+	"matrices.h"
+
+1605656076 /home/martin/Documents/Codeblocks/C/master/funciones/matrices.h
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1605653947 /home/martin/Documents/Codeblocks/C/master/funciones/vectores.h
+	<stdlib.h>
+	<stdlib.h>
+
+1604439467 source:/home/martin/Documents/Codeblocks/C/master/funciones/memoria.c
+	"memoria.h"
+	"memoria.h"
+
+1604438911 /home/martin/Documents/Codeblocks/C/master/funciones/memoria.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1606604306 source:/home/martin/Documents/Codeblocks/C/master/funciones/utiles.c
+	"utiles.h"
+	"cadenas.h"
+	"utiles.h"
+	"cadenas.h"
+
+1606599185 /home/martin/Documents/Codeblocks/C/master/funciones/utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1605894134 source:/home/martin/Documents/Codeblocks/C/master/funciones/vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vectores.h"
+
+1606690093 source:/home/martin/Documents/Codeblocks/C/master/main.c
+	"main.h"
+
+1606603163 /home/martin/Documents/Codeblocks/C/master/main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	"funciones/cadenas.h"
+	"funciones/ejercicios.h"
+	"funciones/fecha.h"
+	"funciones/matrices.h"
+	"funciones/memoria.h"
+	"funciones/menu.h"
+	"funciones/recursividad.h"
+	"funciones/utiles.h"
+	"funciones/vectores.h"
+	"TDA/DINAMICO/listasimple.h"
+	"TDA/DINAMICO/arbolbinario.h"
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	"funciones/cadenas.h"
+	"funciones/ejercicios.h"
+	"funciones/fecha.h"
+	"funciones/matrices.h"
+	"funciones/memoria.h"
+	"funciones/menu.h"
+	"funciones/recursividad.h"
+	"funciones/utiles.h"
+	"funciones/vectores.h"
+	"TDA/DINAMICO/listasimple.h"
+	"TDA/DINAMICO/arbolbinario.h"
+
+1603825885 /home/martin/Documents/Codeblocks/C/master/TDA/ESTATICA/cola.h
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+
+1603834706 source:/home/martin/Documents/Codeblocks/C/master/TDA/ESTATICA/cola.c
+	"cola.h"
+	"cola.h"
+
+1603745599 source:/home/martin/Documents/Codeblocks/C/master/TDA/ESTATICA/pila.c
+	"pila.h"
+	"pila.h"
+
+1603746028 /home/martin/Documents/Codeblocks/C/master/TDA/ESTATICA/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1603478409 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICA/pila.c
+	"pila.h"
+	"pila.h"
+
+1603684256 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICA/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1604724918 source:/home/martin/Documents/Codeblocks/C/master/TDA/LISTA/listasimple.c
+	"listasimple.h"
+	"../../funciones/utiles.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"listasimple.h"
+	"../../funciones/utiles.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1604717391 /home/martin/Documents/Codeblocks/C/master/TDA/LISTA/listasimple.h
+
+1605032853 source:/home/martin/Documents/Codeblocks/C/master/TDA/LISTA/circular.c
+	"circular.h"
+	"circular.h"
+
+1605032832 /home/martin/Documents/Codeblocks/C/master/TDA/LISTA/circular.h
+
+1605033035 source:/home/martin/Documents/Codeblocks/C/master/TDA/LISTA/simple.c
+	"simple.h"
+	"../../funciones/utiles.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"simple.h"
+	"../../funciones/utiles.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1604717391 /home/martin/Documents/Codeblocks/C/master/TDA/LISTA/simple.h
+
+1606601290 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/listasimple.h
+	"../../funciones/utiles.h"
+	"../../funciones/utiles.h"
+
+1605580978 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/pilacircular.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1606601308 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/listasimple.c
+	"listasimple.h"
+	"../../funciones/utiles.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"listasimple.h"
+	"../../funciones/utiles.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1605330022 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/pilacircular.c
+	"pilacircular.h"
+	"pilacircular.h"
+
+1605889096 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/listadoble.c
+	"listadoble.h"
+	"listadoble.h"
+
+1605653627 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/listadoble.h
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+
+1605329940 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/colacircular.c
+	"colacircular.h"
+	"colacircular.h"
+
+1605329947 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/colacircular.h
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1606600886 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/arbolbinario.c
+	"arbolbinario.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"../../funciones/utiles.h"
+	"arbolbinario.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"../../funciones/utiles.h"
+
+1606600921 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/arbolbinario.h
+
+1605580897 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/pila.c
+	"pila.h"
+	"pila.h"
+
+1605223071 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1605580897 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/cola.c
+	"cola.h"
+	"cola.h"
+
+1605569923 /home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/cola.h
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1605896576 /home/martin/Documents/Codeblocks/C/master/funciones/recursividad.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1606241635 source:/home/martin/Documents/Codeblocks/C/master/funciones/recursividad.c
+	"recursividad.h"
+	"recursividad.h"
+
+1603834706 source:/home/martin/Documents/Codeblocks/C/master/TDA/ESTATICO/cola.c
+	"cola.h"
+	"cola.h"
+
+1603825885 /home/martin/Documents/Codeblocks/C/master/TDA/ESTATICO/cola.h
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+
+1603745599 source:/home/martin/Documents/Codeblocks/C/master/TDA/ESTATICO/pila.c
+	"pila.h"
+	"pila.h"
+
+1603746028 /home/martin/Documents/Codeblocks/C/master/TDA/ESTATICO/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1605654421 source:/home/martin/Documents/Codeblocks/C/master/funciones/archivos.h
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1605654468 source:/home/martin/Documents/Codeblocks/C/master/funciones/cadenas.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+
+1605654494 source:/home/martin/Documents/Codeblocks/C/master/funciones/ejercicios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1605643813 source:/home/martin/Documents/Codeblocks/C/master/funciones/fecha.h
+
+1605656076 source:/home/martin/Documents/Codeblocks/C/master/funciones/matrices.h
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1604438911 source:/home/martin/Documents/Codeblocks/C/master/funciones/memoria.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1605652981 source:/home/martin/Documents/Codeblocks/C/master/funciones/recursividad.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1605653755 source:/home/martin/Documents/Codeblocks/C/master/funciones/utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1605653947 source:/home/martin/Documents/Codeblocks/C/master/funciones/vectores.h
+	<stdlib.h>
+	<stdlib.h>
+
+1605664863 source:/home/martin/Documents/Codeblocks/C/master/main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	"funciones/cadenas.h"
+	"funciones/ejercicios.h"
+	"funciones/fecha.h"
+	"funciones/matrices.h"
+	"funciones/memoria.h"
+	"funciones/recursividad.h"
+	"funciones/utiles.h"
+	"funciones/vectores.h"
+	<stdio.h>
+	<stdlib.h>
+	"funciones/archivos.h"
+	"funciones/cadenas.h"
+	"funciones/ejercicios.h"
+	"funciones/fecha.h"
+	"funciones/matrices.h"
+	"funciones/memoria.h"
+	"funciones/recursividad.h"
+	"funciones/utiles.h"
+	"funciones/vectores.h"
+
+1605632604 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/arbolbinario.h
+
+1605569923 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/cola.h
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1605329947 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/colacircular.h
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1605653627 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/listadoble.h
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<string.h>
+
+1605654037 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/listasimple.h
+	"../../funciones/utiles.h"
+	"../../funciones/utiles.h"
+
+1605223071 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1605580978 source:/home/martin/Documents/Codeblocks/C/master/TDA/DINAMICO/pilacircular.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../funciones/utiles.h"
+
+1603825885 source:/home/martin/Documents/Codeblocks/C/master/TDA/ESTATICO/cola.h
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+	<string.h>
+	<stdlib.h>
+	"../../funciones/utiles.h"
+
+1603746028 source:/home/martin/Documents/Codeblocks/C/master/TDA/ESTATICO/pila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1606690085 source:/home/martin/Documents/Codeblocks/C/master/funciones/menu.c
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	"menu.h"
+	"utiles.h"
+	"../TDA/DINAMICO/listasimple.h"
+	"cadenas.h"
+
+1606605098 /home/martin/Documents/Codeblocks/C/master/funciones/menu.h
+	"../TDA/DINAMICO/listasimple.h"
+	"../TDA/DINAMICO/listasimple.h"
+
